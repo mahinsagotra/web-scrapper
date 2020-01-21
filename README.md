@@ -5,8 +5,8 @@ Simple web scrapper to Scrap a static website with Axios and Cheerio.
 
 Dependencies:
 
-             Axios: Promise-based HTTP client for Node.js and the browser.
-             Cheerio: jQuery implementation for Node.js. Cheerio makes it easy to select, edit and view DOM elements.
+             *Axios: Promise-based HTTP client for Node.js and the browser.
+             *Cheerio: jQuery implementation for Node.js. Cheerio makes it easy to select, edit and view DOM elements.
 
 What it does?
 
