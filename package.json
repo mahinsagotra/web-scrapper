@@ -5,7 +5,8 @@
   "main": "pl-scrapper.js",
   "dependencies": {
     "axios": "^0.19.1",
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
